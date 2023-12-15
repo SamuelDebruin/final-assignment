@@ -80,8 +80,8 @@ const createCookie = (Cookie) => {
                 required
                 />
                 <br />
-                {/* <button onClick={() => handleLogin(postResponse)}>Login</button> */}
-                <button>Login</button>
+                <button onClick={() => handleLogin(postResponse)}>Login</button>
+
                 
                 <p>not a member yet? click <a href="/register"> here</a> to join</p>
                
